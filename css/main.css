@@ -10,6 +10,19 @@
   --dark-color: #000;
 }
 
+.motivational-text {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #687bb1; /* Warna pink */
+  font-size: 3rem;
+  font-family: 'Arial', sans-serif;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+
 body {
   display: flex;
   align-items: flex-end;
